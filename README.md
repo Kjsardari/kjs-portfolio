@@ -1,7 +1,7 @@
 # 🚀 3D Developer Portfolio
 
 A modern, animated 3D developer portfolio built with React, Js, TailwindCSS, and motion effects  
-🌐 **Live Site:** [zippy-monstera-3db242.netlify.app](https://zippy-monstera-3db242.netlify.app/)
+🌐 **Live Site:** [zippy-monstera-3db242.netlify.app](https://kjs-portfolio-website.netlify.app/)
 
 ## 📚 Table of Contents
 
